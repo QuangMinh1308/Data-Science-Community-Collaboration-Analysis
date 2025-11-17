@@ -1,11 +1,14 @@
 # 📘 Data-Science-Community-Collaboration-Analysis 
 *(Phân tích cộng đồng nghiên cứu & phát hiện nhóm hợp tác trong lĩnh vực Khoa học Dữ liệu)*
 
-![GitHub Repo stars](https://img.shields.io/github/stars/HoangQuangMinh/Data-Science-Community-Collaboration-Analysis?style=flat-square&color=yellow)
-![GitHub contributors](https://img.shields.io/github/contributors/HoangQuangMinh/Data-Science-Community-Collaboration-Analysis?style=flat-square&color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/HoangQuangMinh/Data-Science-Community-Collaboration-Analysis?style=flat-square&color=green)
-![GitHub issues](https://img.shields.io/github/issues/HoangQuangMinh/Data-Science-Community-Collaboration-Analysis?style=flat-square&color=orange)
-![GitHub license](https://img.shields.io/github/license/HoangQuangMinh/Data-Science-Community-Collaboration-Analysis?style=flat-square&color=red)
+![Louvain](https://img.shields.io/badge/Model-Louvain-blue?style=for-the-badge)
+![Leiden](https://img.shields.io/badge/Model-Leiden-success?style=for-the-badge)
+![FastGreedy](https://img.shields.io/badge/Model-Fast%20Greedy-orange?style=for-the-badge)
+
+![Degree Centrality](https://img.shields.io/badge/Centrality-Degree-yellow?style=flat-square)
+![Betweenness](https://img.shields.io/badge/Centrality-Betweenness-red?style=flat-square)
+![Closeness](https://img.shields.io/badge/Centrality-Closeness-green?style=flat-square)
+![Eigenvector](https://img.shields.io/badge/Centrality-Eigenvector-purple?style=flat-square)
 
 ---
 
